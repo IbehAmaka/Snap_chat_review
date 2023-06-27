@@ -1,13 +1,3 @@
-## in this R script we do the mandatory assignment 2
-
-# Name: Ibeh Amaka Mary
-# Program: Agricultural Economics
-# Student ID: 940508
-# 
-# Name: Haruto Honda
-# Program: Agricultural Economics
-# Student ID: 932059
-
 
 rm(list = ls())
 #create a path variable (global)
