@@ -1,4 +1,4 @@
-
+T#His was part of a project I implemented for my data science course at the university
 rm(list = ls())
 #create a path variable (global)
 
